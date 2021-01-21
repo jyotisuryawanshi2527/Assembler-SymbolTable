@@ -1,0 +1,37 @@
+1
+WAR-macro exists, but not taking 0 parameters
+2
+ERR-identifier expected after macro
+3
+ERR-Unknown section attribute ignored
+4
+ERR-macro global have many parameters
+5
+ERR-label or variable expected at start of line
+6
+ERR-label without column
+7
+ERR-unexpected label/variable name
+8
+ERR-parser:instruction expected
+9
+ERR-no operand for data declaration
+10
+ERR-comma, colon, decorator or end of line expected after operand
+11
+ERR-expression syntex error
+12
+WAR-GLOBAL directive after symbol definition is an experimental feature
+13
+ERR-invalid combination of opcode and operands
+14
+attemp to reserve non-constant quantity in declaration space
+15
+WAR-byte data exceeds bounds
+16
+WAR-dword data exceeds bounds
+17
+ERR-unexpected format of dword[imm/var]
+
+
+
